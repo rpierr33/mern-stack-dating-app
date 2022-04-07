@@ -1,0 +1,19 @@
+{
+  "name": "mern-stack-dating-app",
+  "version": "1.0.0",
+  "description": "Dating app created using the mern stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpierr33/mern-stack-dating-app.git"
+  },
+  "author": "Ralph Pierre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpierr33/mern-stack-dating-app/issues"
+  },
+  "homepage": "https://github.com/rpierr33/mern-stack-dating-app#readme"
+}
